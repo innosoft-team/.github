@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> Welcome to InnoSoft Team</h2>
+<h1><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> Welcome to InnoSoft Team</h1>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <br/>
 
